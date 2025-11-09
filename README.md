@@ -29,8 +29,7 @@ Los usuarios deben ser capaces de:
 ### Enlaces
 
 - **URL del Repositorio:** [GitHub](https://github.com/jesussantos210/qr-code-jesus)
-- **URL del Sitio en Vivo:** [GitHub Pages](https://tu-usuario.github.io/tu-repo-qr/)
-
+- **URL del Sitio en Vivo:** [GitHub Pages](https://github.com/jesussantos210/qr-code-jesus)
 ## Mi proceso
 
 ### Construido con
